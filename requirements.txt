@@ -1,0 +1,8 @@
+torch
+segmentation-models-pytorch
+albumentations
+opencv-python
+optuna
+pandas
+numpy
+matplotlib
